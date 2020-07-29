@@ -1,0 +1,17 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "Nether X-ray",
+      "name" : "Nether X-Ray",
+      "uuid" : "dce6ab69-6743-4625-8fb3-e8b61d28f45b",
+      "version" : [ 29, 0, 0 ]
+   },
+   "modules" : [
+      {
+         "description" : "Nether X-Ray",
+         "type" : "resources",
+         "uuid" : "219d019c-e05e-4101-b6a2-4f26a739b702",
+         "version" : [ 29, 0, 0 ]
+      }
+   ]
+}

@@ -1,0 +1,42 @@
+{
+  "netherrack" : { 
+    "isotropic" : true,
+    "textures" : "netherrack",    "sound": "stone",
+    "blockshape": "invisible"
+  },
+  "soul_sand" : { 
+    "textures" : "soul_sand",
+    "sound": "sand",
+    "blockshape": "invisible"
+  },
+"nether_gold_ore" : {
+      "sound" : "nether_gold_ore",
+      "textures" : "nether_gold_ore",
+      "blockshape": "invisible"
+},   
+"quartz_ore" : {
+      "sound" : "nether_gold_ore",
+      "textures" : "quartz_ore",
+      "blockshape": "invisible"
+   },
+   "magma" : {
+      "isotropic" : true,
+      "sound" : "stone",
+      "textures" : "magma",
+      "blockshape": "invisible"
+   },
+"blackstone" : {
+      "sound" : "stone",
+      "blockshape": "invisible",
+      "textures" : {
+         "down" : "blackstone_top",
+         "side" : "blackstone",
+         "up" : "blackstone_top"
+         }
+      },
+"gravel" : {
+      "sound" : "gravel",
+      "textures" : "gravel",
+      "blockshape": "invisible"
+   }
+}
