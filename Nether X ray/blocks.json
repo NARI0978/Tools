@@ -25,6 +25,11 @@
       "textures" : "magma",
       "blockshape": "invisible"
    },
+"soul_soil" : {
+      "sound" : "soul_soil",
+      "textures" : "soul_soil",
+      "blockshape": "invisible"
+   },
 "blackstone" : {
       "sound" : "stone",
       "blockshape": "invisible",
@@ -34,6 +39,15 @@
          "up" : "blackstone_top"
          }
       },
+"basalt" : {
+      "sound" : "basalt",
+      "blockshape": "invisible",
+      "textures" : {
+         "down" : "basalt_top",
+         "side" : "basalt_side",
+         "up" : "basalt_top"
+      }
+   },
 "gravel" : {
       "sound" : "gravel",
       "textures" : "gravel",
