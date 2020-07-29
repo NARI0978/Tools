@@ -1,0 +1,30 @@
+ここには12曲入ります。
+piano1.ogg
+piano2.ogg
+piano3.ogg
+nuance1.ogg
+nuance2.ogg
+hal1.ogg
+hal2.ogg
+hal3.ogg
+hal4.ogg
+calm1.ogg
+calm2.ogg
+calm3.ogg
+.oggに変換して入れてください。.ogg以外は再生されません。
+
+
+There are enter 12 songs here.
+piano1.ogg
+piano2.ogg
+piano3.ogg
+nuance1.ogg
+nuance2.ogg
+hal1.ogg
+hal2.ogg
+hal3.ogg
+hal4.ogg
+calm1.ogg
+calm2.ogg
+calm3.ogg
+Please convert to .ogg , does not play except .ogg.

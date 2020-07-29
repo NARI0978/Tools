@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "uuid": "2bb1d932-c40b-4a04-99f3-16b0c7c1aa0c",
+    "name": "Change Music Resourse pack",
+    "version": [0, 0, 1],
+    "description": "Can change the music in the game."
+  },
+  "modules": [
+    {
+      "description": "Can change the music in the game.",
+      "version": [0, 0, 1],
+      "uuid": "a21dd020-c2e9-4f62-ab11-c3832a9c125f",
+      "type": "resources"
+    }
+  ]
+}

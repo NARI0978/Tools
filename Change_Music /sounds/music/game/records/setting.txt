@@ -1,0 +1,30 @@
+ここには12曲入ります。
+13.ogg
+cat.ogg
+blocks.ogg
+chirp.ogg
+far.ogg
+mall.ogg
+mellohi.ogg
+stal.ogg
+strad.ogg
+ward.ogg
+11.ogg
+wait.ogg
+.oggに変換して入れてください。.ogg以外は再生されません。
+
+
+There are enter 12 songs here.
+13.ogg
+cat.ogg
+blocks.ogg
+chirp.ogg
+far.ogg
+mall.ogg
+mellohi.ogg
+stal.ogg
+strad.ogg
+ward.ogg
+11.ogg
+wait.ogg
+Please convert to .ogg , does not play except .ogg.

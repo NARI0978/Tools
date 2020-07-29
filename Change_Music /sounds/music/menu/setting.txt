@@ -1,0 +1,14 @@
+ここには４曲入ります。
+menu1.ogg
+menu2.ogg
+menu3.ogg
+menu4.ogg
+.oggに変換して入れてください。.ogg以外は再生されません。
+
+
+There are enter 4 songs here.
+menu1.ogg
+menu2.ogg
+menu3.ogg
+menu4.ogg
+Please convert to .ogg , does not play except .ogg.

@@ -1,0 +1,12 @@
+ここには3曲入ります。
+end.ogg
+credits.ogg
+boss.ogg
+.oggに変換して入れてください。.ogg以外は再生されません。
+
+
+There are enter 4 songs here.
+end.ogg
+credits.ogg
+boss.ogg
+Please convert to .ogg , does not play except .ogg.

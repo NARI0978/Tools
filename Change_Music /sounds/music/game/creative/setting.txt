@@ -1,0 +1,18 @@
+ここには6曲入ります。
+creative1.ogg
+creative2.ogg
+creative3.ogg
+creative4.ogg
+creative5.ogg
+creative6.ogg
+.oggに変換して入れてください。.ogg以外は再生されません。
+
+
+There are enter 6 songs here.
+creative1.ogg
+creative2.ogg
+creative3.ogg
+creative4.ogg
+creative5.ogg
+creative6.ogg
+Please convert to .ogg , does not play except .ogg.

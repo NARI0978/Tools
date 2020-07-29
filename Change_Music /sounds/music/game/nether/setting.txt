@@ -1,0 +1,14 @@
+ここには４曲入ります。
+nether1.ogg
+nether2.ogg
+nether3.ogg
+nether4.ogg
+.oggに変換して入れてください。.ogg以外は再生されません。
+
+
+There are enter 4 songs here.
+nether1.ogg
+nether2.ogg
+nether3.ogg
+nether4.ogg
+Please convert to .ogg , does not play except .ogg.
