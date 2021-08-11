@@ -54,6 +54,11 @@
     "sound": "stone",
     "blockshape": "invisible"
   },
+  "cobblestone" : {
+     "sound" : "stone",
+     "textures" : "cobblestone",
+     "blockshape": "invisible"
+  },
   "deepslate" : {
      "isotropic" : {
         "down" : true,
